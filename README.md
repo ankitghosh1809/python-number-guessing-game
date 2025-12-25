@@ -1,23 +1,21 @@
-# Python To-Do List Application
+# Python Number Guessing Game
 
-This is a simple command-line based To-Do List application written in Python. It helps users manage tasks by allowing them to add tasks and mark tasks as completed interactively.
+This is a simple Python-based number guessing game where the user tries to guess a randomly generated number between 0 and 100.
 
 ---
 
 ## Features
 
-- Add multiple tasks to a to-do list
-- View all pending tasks
-- Mark tasks as completed
-- Automatically removes completed tasks
-- Handles basic invalid inputs
+- Random number generation using Python
+- Feedback on guesses (Too High / Too Low / Correct)
+- Allows the user to play multiple rounds
+- Simple and beginner-friendly logic
 
 ---
 
 ## Concepts Used
 
-- Functions
-- Lists
+- random module
 - While loops
 - Conditional statements
 - User input handling
@@ -27,13 +25,13 @@ This is a simple command-line based To-Do List application written in Python. It
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/your-username/python-cli-todo-list.git
+git clone https://github.com/your-username/python-number-guessing-game.git
 
 2. Navigate to the project folder:
-cd python-cli-todo-list
+cd python-number-guessing-game
 
 3. Run the program:
-python "To-do list.py"
+python "Number Guessing Game.py"
 
 ---
 
@@ -47,10 +45,10 @@ python "To-do list.py"
 ## Purpose
 
 This project is created for:
-- Practicing Python fundamentals
-- Academic and lab assignments
-- Beginners learning command-line applications
-- Building a basic programming portfolio
+- Learning Python basics
+- Understanding random number generation
+- Practicing loops and conditionals
+- Beginner-level project for GitHub portfolio
 
 ---
 
